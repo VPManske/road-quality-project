@@ -1,1 +1,1 @@
-# Project hoe for group Road Quality project.
+# Project home for group Road Quality project.
